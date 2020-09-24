@@ -1,6 +1,6 @@
 :root {
   --base: #ffc600;
-  --spacing: 20px;
+  --spacing: 10px;
   --blur: 10px;
 }
 
@@ -9,10 +9,10 @@ img {
   background: var(--base);
   filter: blur(var(--blur));
 }
-
 .hl {
   color: var(--base);
 }
+
 /*
 something
 */
